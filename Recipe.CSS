@@ -1,0 +1,95 @@
+.recipe-title h1 {
+	color:#b52025;
+	font-size:30px; 
+	font-family:Georgia, serif;
+}
+
+
+
+img {
+	width:300px;
+	align-content:left;
+	border:5px solid #732626;
+	border-radius: 16px;
+    box-shadow: 7px 3px 5px #d27979;
+}
+
+h2 {
+	color:#b52025;
+	font-size:22px;
+	font-weight:normal;
+	font-family:Georgia, serif;
+}
+
+p {
+	color:#283428;
+	font-size:20px;
+}
+
+h3 {
+	color:#b52025;
+	font-size:20px;
+	font-family:Times, serif;
+}
+
+.ingredients {
+	list-style:none;
+	margin:0;
+}
+
+.ingredients li {
+	margin-bottom: 5px;
+	padding-left:1px;
+	color:#283428;
+	font-size:18px;
+}
+
+.directions li {
+	margin-bottom: 5px;
+	padding-left:1px;
+	color:#7A2506;
+	font-size:19px;
+}
+
+.social-share {
+    background-color: #b30000;
+    color: #ffe6e6;
+    display: inline-block;
+    font-size: 30px;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+    padding: 3px;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: normal;
+    margin-right: 10px;
+
+}
+.social-share:hover {
+	font-size: 40px;
+	height: 60px;
+	width: 60px;
+	transition: ease-in-out;
+}
+
+.social-share:visited {
+	background-color: #993366;
+}
+
+.share {
+	color: #b52025;
+    font-size: 20px;
+    font-family: Times, serif;
+}
+
+.hide {
+    color: #ffe6e6;
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    font-family: normal;
+    
+
+}
